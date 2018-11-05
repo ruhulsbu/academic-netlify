@@ -64,7 +64,7 @@ url_source = ""
 url_pdf = "https://dl.acm.org/citation.cfm?id=3233577"
 
 # Optional featured image (relative to `static/img/` folder).
-[header]
-image = "portrait.jpg"
-caption = "portrait.jpg"
+#[header]
+#image = "portrait.jpg"
+#caption = "portrait.jpg"
 +++
