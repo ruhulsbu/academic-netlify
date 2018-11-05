@@ -24,7 +24,8 @@ publication_short = "ACM-BCB"
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-# image = "updated_pipeline.jpg"
+image = "portrait.jpg"
+
 # [header]
 # image = "updated_pipeline.jpg"
 # caption = "Genome Annotation with Deep Learning"
