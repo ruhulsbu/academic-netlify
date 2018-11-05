@@ -24,7 +24,7 @@ publication_short = "ACM-BCB"
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-image = "portrait.jpg"
+image = ""
 
 # [header]
 # image = "updated_pipeline.jpg"
